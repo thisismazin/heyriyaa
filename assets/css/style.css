@@ -518,6 +518,14 @@ section {
   padding-top: 20px;
 }
 
+.clients img {
+  width: 250px;
+  height: auto;
+  padding: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
 .clients .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
